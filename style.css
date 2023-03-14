@@ -1,0 +1,20 @@
+body{
+    /* height: 150px;
+    width: 250px; */
+    background-color: black;
+    border-radius: 50px;
+}
+
+.container{
+    background-color: yellow;
+    height: 150px;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.container p{
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
